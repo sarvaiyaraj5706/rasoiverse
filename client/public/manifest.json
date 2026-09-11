@@ -1,0 +1,19 @@
+{
+  "short_name": "RasoiVerse",
+  "name": "RasoiVerse — India’s Smart Recipe Assistant",
+  "description": "Intelligent Indian cooking platform featuring 140+ authentic recipes, AI Recipe Generator, multilingual voice assistant, and step-by-step cooking studio.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FDFBF7",
+  "theme_color": "#EA580C",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "categories": ["food", "lifestyle", "utilities"]
+}
